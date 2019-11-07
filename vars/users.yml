@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
+  - name: Jabber1
     aws_groups: "sacramento, fresno, indio"
-  - name: user2
+  - name: Jabber2
     aws_groups: "losangeles, sanfransisco, napa"
-  - name: user3
+  - name: Jabber3
     aws_groups: "palmsprings, indio, sandiego"
